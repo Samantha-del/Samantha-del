@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samantha-del
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science open sourcing
 - 🌱 I’m currently learning data science with R
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me samiearinda@gmail.com
